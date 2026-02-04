@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Check Apple Gift Card</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Apple Gift Card</h1>
+  <p>Check Your Apple Gift Card Balance</p>
+
+  <input type="text" id="pin" placeholder="Enter your PIN here">
+  <button onclick="checkBalance()">Check Balance</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
