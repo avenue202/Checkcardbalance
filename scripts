@@ -1,0 +1,4 @@
+function checkBalance() {
+  const pin = document.getElementById("pin").value;
+  alert("You entered: " + pin);
+}
